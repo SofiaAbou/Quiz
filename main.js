@@ -3,7 +3,7 @@ const questionario = [
         question: "Che cos'è l'HTML?",
         answers: [
             { text: "Un linguaggio di markup", correct: true },
-            { text: "Un linguaggio di programmazione", correct: false },
+            { text: "Un linguaggio di programmazione ", correct: false },
             { text: "Un linguaggio per programmare macchine virtuali", correct: false },
             { text: "Un software per visualizzare siti web", correct: false },
         ]
